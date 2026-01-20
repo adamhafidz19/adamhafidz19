@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adamhafidz19">
-    <img src="https://komarev.com/ghpvc/?username=adamhafidz19&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/adam-hafidz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
